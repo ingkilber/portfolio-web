@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Trick NFTs - ReactJS",
+    "desc": "El primer y más grande mercado digital de Argentina para tokens no fungibles (NFT).",
+    "image": "trick",
+    "category": "lamp",
+    "links": {
+      "view": "https://tricknfts.com/",
+      "code": "https://github.com/ingkilber"
+    }
+  },
+  {
+    "name": "Sistema De Constancias",
+    "desc": "Software Para La Emisión De Constancias A Estudiante En La Facultad De Informática Y Estadística.",
+    "image": "constancias",
+    "category": "mern",
+    "links": {
+      "view": "https://crypto-tracker-react-project.netlify.app/",
+      "code": "https://github.com/ingkilber"
+    }
+  },
+  {
+    "name": "Gráfica Didot",
+    "desc": "Empresa dedicada a la operatoria de comercio exterior internacional. Importando productos de tecnología",
+    "image": "didot",
+    "category": "lamp",
+    "links": {
+      "view": "http://didotsa.com/",
+      "code": "https://github.com/ingkilber/didotsaShop"
+    }
+  },
+  {
+    "name": "Portafolio Website",
+    "desc": "Mustra al resto del mundo tu experiencia, lo que sabes hacer, así como tus conocimientos de una forma gráfica, directa...",
+    "image": "kilber",
+    "category": "basicweb",
+    "links": {
+      "ver": "https://kilber.ymrest.com/",
+      "code": "https://github.com/ingkilber/portfolio-web"
+    }
+  },
+  {
+    "name": "Eventos Manjar",
+    "desc": "Importación de artículos tecnológicos. Desempeñándose en seleccionar productos de origen extranjero",
+    "image": "Eventos-Manjar",
+    "category": "lamp",
+    "links": {
+      "view": "http://eventosmanjar.didotsa.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "CableParts",
+    "desc": "Organización abocada a la importación de bienes de índole tecnológica.",
+    "image": "CableParts",
+    "category": "lamp",
+    "links": {
+      "view": "http://cableparts.didotsa.com/",
+      "code": "https://github.com/ingkilber/Cableparts"
+    }
+  },
+  {
+    "name": "La Crepperia",
+    "desc": "Actualmente la empresa lleva a cabo actividades importadoras centrándose en el rubro tecnológico",
+    "image": "Crepperia",
+    "category": "lamp",
+    "links": {
+      "view": "http://crepperia.didotsa.com/",
+      "code": "https://github.com/ingkilber/Creperia"
+    }
+  },
+  {
+    "name": "Alcaldia De Caracas Website",
+    "desc": "Es Un Ente u Organismo Descentralizado e Independiente Del Estado Venezolano",
+    "image": "alcaldia",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.caracas.gob.ve/alcaldiaDeCCS/",
+      "code": "https://github.com/ingkilber"
+    }
+  },
+  {
+    "name": "Gran Misión, Saber Y Trabajo",
+    "desc": "Es Un Instrumento Político De La Revolución Bolivariana, Que Promueve La Formación y El Trabajo...",
+    "image": "mision",
+    "category": "basicweb",
+    "links": {
+      "view": "http://portal.gmsaberytrabajo.gob.ve/",
+      "code": "https://github.com/ingkilber"
+    }
+  },
+  {
+    "name": "Sistema De Administrador De NFTs",
+    "desc": "Un Software De Gestión Administrativa Que Te Permitirá Tener Mayor Control En La Gestión.",
+    "image": "nfts",
+    "category": "basicweb1",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/ingkilber"
+    }
+  },
+  {
+    "name": "Cargar Múltiples Archivos",
+    "desc": "Cargar Múltiples Archivos Con PHP. De Manera Rápida Varios Archivos Con Un Solo Formulario Usando HTML, PHP Y CSS.",
+    "image": "cargar",
+    "category": "basicweb1",
+    "links": {
+      "view": "https://composey.netlify.app/",
+      "code": "https://github.com/ingkilber"
+    }
+  }
+]

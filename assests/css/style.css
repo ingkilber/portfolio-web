@@ -521,43 +521,43 @@ header .navbar ul li a:hover{
   border-radius: 4px;
 }
 .skills .container .col .bar .html:before{
-  width: 98%;
+  width: 90%;
   background: #e03d0b;
 }
 .skills .container .col .bar .css:before{
-  width: 92%;
+  width: 85%;
   background: #2962ff;
 }
 .skills .container .col .bar .javascript:before{
-  width: 82%;
+  width: 80%;
   background: #ffd900;
 }
 .skills .container .col .bar .jquery:before{
-  width: 73%;
+  width: 60%;
   background: #3d10dd;
 }
 .skills .container .col .bar .php:before{
-  width: 84%;
+  width: 70%;
   background: #8054c7;
 }
 .skills .container .col .bar .mysql:before{
-  width: 97%;
+  width: 80%;
   background: #f38b03;
 }
 .skills .container .col .bar .reactjs:before{
-  width: 55%;
+  width: 70%;
   background: #2962ff;
 }
 .skills .container .col .bar .java:before{
-  width: 88%;
+  width: 50%;
   background: #ce0505;
 }
 .skills .container .col .bar .python:before{
-  width: 80%;
+  width: 60%;
   background: #f7d203;
 }
 .skills .container .col .bar .android:before{
-  width: 70%;
+  width: 50%;
   background: #2fdf7e;
 }
 .skills .container .col .bar .nodejs:before{
@@ -565,11 +565,11 @@ header .navbar ul li a:hover{
   background: #298521;
 }
 .skills .container .col .bar .vcs:before{
-  width: 88%;
+  width: 80%;
   background: #f14e32;
 }
 .skills .container .col .bar .cms:before{
-  width: 96%;
+  width: 80%;
   background: #1771e7;
 }
 .skills .container .col .bar .firebase:before{
